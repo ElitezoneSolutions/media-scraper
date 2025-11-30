@@ -1,0 +1,5 @@
+{
+  "name": "MediaScrape AI",
+  "description": "A powerful, AI-enhanced media scraper that allows users to extract images, videos, and SVGs from websites with advanced filtering for file size and count. Features Gemini-powered content insights.",
+  "requestFramePermissions": []
+}
